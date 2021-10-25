@@ -1,0 +1,2 @@
+# MyFirstNifty
+Basic NFT implementation
